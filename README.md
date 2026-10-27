@@ -4,7 +4,7 @@ A responsive catering landing page built with React, Vite, and Tailwind CSS. Dap
 
 ## 🌐 Live Demo
 
-Try Dapar Rasa Landing Page here: https://dapur-rasa-landing-page.pages.dev/
+Try Dapur Rasa Landing Page here: https://dapur-rasa-landing-page.pages.dev/
 
 Explore the landing page directly in your browser without installing anything.
 
